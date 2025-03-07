@@ -11,7 +11,7 @@ support_level: community
 > -- https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises
 
 :::note
-GitHub Enterprise Cloud EMU (Enterprise Managed Users) are not compatible with authentik. GitHub currently only permits SAML/OIDC for EMU organizations with Okta and/or Microsoft Entra ID (Azure AD).
+This page describes SAML setup for Organizations part of GitHub Enterprise Cloud. For GitHub Enterprise Cloud EMU (Enterprise Managed Users) see https://docs.goauthentik.io/integrations/services/github-enterprise-emu/
 :::
 
 ## Preparation
